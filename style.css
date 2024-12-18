@@ -4,8 +4,8 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-:root {
+/* these are the global variables */
+:root {     
   --primary-text-color: #183b56;
   --secondary-text-color: #577592;
   --accent-color: #2294ed;
